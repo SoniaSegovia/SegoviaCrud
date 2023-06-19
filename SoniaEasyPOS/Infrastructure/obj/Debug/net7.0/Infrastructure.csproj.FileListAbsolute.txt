@@ -1,0 +1,17 @@
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\SegoviaCrud\SoniaEasyPOS\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
