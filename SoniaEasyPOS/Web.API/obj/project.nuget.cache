@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KtCpkLWZxqXI3yeXAWHxA8ecgk8Va486ttGV7vdLsuz9qmyr9efDUK6W61bwePsx12XQbufWXDbKj7xcarL7dw==",
+  "dgSpecHash": "1NbLQdt+p3UH7bEsg3smyeSDjHsBsvWMaRj6vGa5Er6kYJ4gJjuV7LcX67+QQbFqAl8MhrEnIXrjonlAkUqqEg==",
   "success": true,
-  "projectFilePath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
+  "projectFilePath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
