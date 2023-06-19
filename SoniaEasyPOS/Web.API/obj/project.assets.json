@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
+      "projectUniqueName": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
       "projectName": "Web.API",
-      "projectPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
+      "projectPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
       "packagesPath": "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Web.API\\obj\\",
+      "outputPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -660,11 +660,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj": {
-              "projectPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj"
+            "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj": {
+              "projectPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj"
             },
-            "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj"
+            "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
