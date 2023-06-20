@@ -759,11 +759,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj": {
-              "projectPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj"
+            "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj": {
+              "projectPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj"
             },
-            "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj": {
-              "projectPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj"
+            "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj": {}
+    "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj": {}
   },
   "projects": {
-    "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj": {
+    "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj",
+        "projectPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\",
-        "outputPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\obj\\",
+        "outputPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj": {
-                "projectPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj"
+              "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj": {
+    "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\",
-        "outputPath": "d:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\obj\\",
+        "outputPath": "D:\\Escritorio\\SegoviaCrud\\SoniaEasyPOS\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
